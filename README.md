@@ -80,5 +80,5 @@ Note: Data used is publicly available and analyzed for educational purposes.
 ---
 
 ## Project Preview
-- Full notebook is available for view, here is a snapshot of the conclusions drawn from this analysis:
+- The full notebook is available for viewing in ipynb file, here is a snapshot of the conclusions drawn from this analysis:
 <img width="1350" height="442" alt="image" src="https://github.com/user-attachments/assets/c0e49d9d-920b-4406-be04-173a8cfa7e73" />
