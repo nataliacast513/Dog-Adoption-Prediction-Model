@@ -7,6 +7,8 @@ The analysis was conducted in **Python using Jupyter Notebook**, with a focus on
 
 This project follows an end-to-end analytical workflow, including **data cleaning, exploratory analysis, model development, and model selection**, to identify patterns and build predictive insights.
 
+This project demonstrates how predictive modeling can be used to support operational decision-making by identifying factors associated with higher adoption likelihood.
+
 ---
 
 ## Objective
